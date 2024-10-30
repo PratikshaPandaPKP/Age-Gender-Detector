@@ -42,7 +42,7 @@ This project implements a real-time age and gender detection system using OpenCV
 
 -You can press 'q' to exit the application.
 
-## Key Learnings
+## Key Learnings:
 
 -Gained hands-on experience with real-time video processing and deep learning.
 
@@ -50,16 +50,16 @@ This project implements a real-time age and gender detection system using OpenCV
 
 -Learned how to effectively implement and utilize pre-trained models.
 
-## Feedback
+## Feedback:
 I welcome any feedback or suggestions on the project! Feel free to reach out or contribute to enhance the functionality and accuracy of the model.
 
-## Link of The Zip Project File
+## Link of The Zip Project File:
 https://1drv.ms/u/c/bd5d871e8cd63d40/EWo3l-jntsdAhy0QcS99sEgBxsMYCnB9oNC0tX0MMQc-0g?e=9fYc5E
 
-## Video Link
+## Video Link:
 https://www.loom.com/share/72143acf390c4a68822b44a0f16b0f87
 
-## Output
+## Output:
 ![image](https://github.com/user-attachments/assets/fac3e061-2652-411d-af93-a394bba98a6c)
 ![image](https://github.com/user-attachments/assets/5467395c-17eb-4afe-8efb-6e8af079fa40)
 
