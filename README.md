@@ -47,6 +47,9 @@ This project implements a real-time age and gender detection system using OpenCV
 ## Feedback
 I welcome any feedback or suggestions on the project! Feel free to reach out or contribute to enhance the functionality and accuracy of the model.
 
+## Link of The Zip Project File
+https://1drv.ms/u/c/bd5d871e8cd63d40/EWo3l-jntsdAhy0QcS99sEgBxsMYCnB9oNC0tX0MMQc-0g?e=9fYc5E
+
 ## Video Link
 https://www.loom.com/share/72143acf390c4a68822b44a0f16b0f87
 
